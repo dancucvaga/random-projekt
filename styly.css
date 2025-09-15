@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    margin: 0;
+    text-align: center;
+
+}
+    head{
+        flex-direction: column;
+    }
+    h1{text-align: center;
+
+    }
+    img{
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+    }
